@@ -2,7 +2,7 @@
 # with daily or sub-daily observations from the WoKaS database
 
 # set working dir
-# rm(list = ls())
+rm(list = ls())
 wd <- "D:/Project 4 - Spatial recession analysis/"
 setwd(wd)
 
